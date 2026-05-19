@@ -1,0 +1,35 @@
+# Rapport
+rapport_latex/
+gemini.md
+
+# Secrets (IMPORTANT)
+firebase-service-account.json
+google-services.json
+.env
+
+# Java / Maven
+target/
+*.class
+.mvn/
+mvnw
+mvnw.cmd
+
+# Android
+.gradle/
+build/
+*.iml
+.idea/
+local.properties
+.navigation/
+capture/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+chroma_db/
+
+# Misc
+.DS_Store
+Thumbs.db
